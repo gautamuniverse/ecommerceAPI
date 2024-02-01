@@ -54,6 +54,9 @@ This is an API for an ecommerce platform admin to manage product inventory.
 └── package.json    
 ```
 
+## Live Website
+[E-Commerce API](https://e-commerce-api-ljj2.onrender.com/)
+
 ## Getting Started
 
 To get started with Habit Forge:
